@@ -1,0 +1,346 @@
+﻿Index,Opt-out method,Name,Email,address,State,phone num,Privacy maze,Separate submissions,CAPCHA test,Asymmetry,Lengthy & confusing,Difficult to locate,Confusing choices,Cookie control misdirection,Unclear request receipt,Identify confirmation,Verified email message,Other actions
+113,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,0
+135,Opt-out form,Y,Y,Y,,Y,0,0,0,0,0,0,0,0,0,1,0,0
+346,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,1,1,0,0
+493,Opt-out form,Y,Y,,,,0,0,1,0,0,0,0,0,1,1,1,0
+683,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,1,1,0,0,1,1,0,0
+810,Opt-out form,Y,Y,Y,Y,Y,1,1,0,0,0,0,0,0,1,1,0,0
+817,Opt-out form,Y,Y,Y,Y,,1,1,0,0,0,0,0,0,1,1,1,0
+818,Opt-out form,Y,Y,Y,Y,Y,1,1,0,0,1,0,0,0,0,1,0,0
+918,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+4,Opt-out form,Y,Y,,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+7,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+16,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+17,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+19,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+22,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+24,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+31,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,0,0
+32,Opt-out form,Y,Y,Y,Y,Y,1,1,0,0,0,0,0,0,0,0,0,0
+34,Opt-out form,Y,Y,,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+36,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+38,Opt-out form,Y,Y,,,,0,0,1,0,0,0,0,0,0,0,1,0
+39,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+40,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,0,0
+41,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,1
+42,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+43,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+44,Opt-out form,Y,Y,,,Y,0,0,0,0,0,0,0,0,0,0,0,0
+53,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+56,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+62,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+64,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+65,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+66,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+69,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+74,Opt-out form,,Y,,,,1,0,0,0,0,0,0,0,0,0,1,0
+76,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,0,0,0,0,1,0,0,0
+80,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,1,1,0
+85,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+98,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+99,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+102,Opt-out form,,,,,,0,0,0,0,0,0,0,0,1,0,0,0
+104,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+106,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+107,Opt-out form,Y,Y,,,,0,0,0,0,1,1,0,0,1,0,0,0
+109,Browser opt-out,,,,,,0,0,0,0,0,1,0,0,0,0,0,0
+111,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,0,0,0,0,0,1,0,0,1,0,0,0
+112,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+118,Opt-out form,Y,Y,,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+121,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+123,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+126,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+131,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+136,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,1,0,0
+137,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+142,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+146,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,0,0,0,0,1,1,0
+149,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+152,Opt-out form,Y,Y,,,,0,0,0,0,1,1,0,0,1,1,0,0
+158,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+159,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+160,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+163,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+165,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+166,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+167,Opt-out form,,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+169,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,1,0,0,0,0,0,0,0,0,0,0
+171,"Browser opt-out
+& Opt-out form",,Y,,Y,,1,0,0,0,1,0,0,0,1,1,0,0
+172,Browser opt-out,,,,,,0,1,0,1,1,0,0,0,0,0,0,0
+182,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+187,Opt-out form,Y,Y,,,,0,0,0,0,0,1,0,0,1,1,0,0
+196,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+198,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+204,Opt-out form,Y,Y,,Y,Y,1,0,0,0,0,1,0,0,0,1,0,0
+206,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+219,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+223,Opt-out form,Y,Y,,,,0,0,0,0,0,1,0,0,0,1,0,0
+224,Opt-out form,,Y,,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+225,Opt-out form,Y,Y,Y,,Y,0,0,1,0,0,0,0,0,0,1,0,0
+232,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+235,Opt-out form,Y,Y,,,,1,0,0,0,0,0,0,0,0,0,0,1
+249,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+261,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+269,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+270,Opt-out form,,,,,,0,0,0,0,0,1,0,0,1,0,0,0
+274,Browser opt-out,,,,,,0,0,0,1,1,0,1,0,0,0,0,0
+275,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+277,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,1,0,0,0,0,1,0,0
+293,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+294,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+295,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+296,Opt-out form,,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+307,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,0,0,0,0,0,0,0,0,0,0,0,0
+310,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+321,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+344,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+352,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+353,Opt-out form,Y,Y,Y,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+357,Opt-out form,Y,Y,,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+359,Opt-out form,Y,Y,Y,Y,Y,0,1,0,0,1,0,0,0,1,0,0,0
+362,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+364,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,1,0,0,1,0,0,0,0,0,1,1,0
+365,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,1,1,1
+366,Browser opt-out,,,,,,0,0,0,1,1,0,0,1,0,0,0,0
+367,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,1,1,0,0,0,1,1,0
+368,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+372,Opt-out form,Y,Y,,,,0,0,0,0,1,0,0,0,1,1,0,0
+373,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+374,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,0,0
+375,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+377,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+378,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+400,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+404,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+426,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+445,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+478,Opt-out form,,Y,,,,1,0,0,0,1,1,0,0,0,0,1,0
+481,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+485,Opt-out form,Y,Y,,Y,,0,1,0,0,0,0,0,0,0,0,1,0
+488,Opt-out form,Y,Y,,Y,,0,1,0,0,0,0,0,0,0,0,1,0
+489,Opt-out form,Y,Y,,Y,,0,1,0,0,0,0,0,0,0,0,1,0
+491,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+499,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,1,0,0,1,0,0,0
+502,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+503,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,1,0,0,0,0,0,0,0,0
+507,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+508,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+524,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+525,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+530,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+537,Opt-out form,Y,Y,,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+542,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+544,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+552,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+554,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+555,Browser opt-out,,,,,,0,0,0,0,1,0,0,1,0,0,0,0
+557,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+559,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+569,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+570,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+571,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,1,0,0,0,0,1,0,0,1,0,0,0
+572,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+573,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+578,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+579,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+582,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,0,0,1,0
+583,"Browser opt-out
+& Opt-out form",,Y,,Y,,0,0,0,0,0,1,0,0,0,0,0,0
+586,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+596,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+599,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,0,0,0,0,1,0,0,0,0,1,0,0
+602,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+613,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+615,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+626,Opt-out form,Y,Y,,,,1,0,0,0,0,0,0,0,0,1,1,0
+628,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,0,1
+639,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+646,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+647,Browser opt-out,,,,,,0,0,0,0,1,1,0,1,0,0,0,0
+651,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+670,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+672,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+673,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+675,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+684,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+687,"Browser opt-out
+& Opt-out form",,,,,,0,0,0,1,0,0,0,0,1,0,0,0
+689,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+690,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,,1,0,0,0,0,1,0,0,0,0,1,0
+691,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,1,1,0,0,0,0,0
+692,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+698,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+699,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+700,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+703,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+704,Browser opt-out,,,,,,0,0,0,0,0,1,0,0,0,0,0,0
+706,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,0,0
+707,Opt-out form,Y,Y,Y,Y,,0,1,1,0,1,0,0,0,0,0,0,0
+708,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,1,0,0,0,0,1,0,0
+709,Opt-out form,,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+711,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+713,Opt-out form,Y,Y,Y,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+715,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+717,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+719,"Browser opt-out
+& Opt-out form",,Y,,,,1,0,0,0,1,1,0,0,0,0,0,0
+721,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+726,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+738,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,1,0,0,0,0,0,1
+739,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,1,1,1,0,0,0,0,0,1
+741,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+742,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,1,1,0,0
+755,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+759,Opt-out form,Y,Y,Y,Y,Y,1,1,0,0,0,0,0,0,0,1,0,0
+760,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+761,Opt-out form,Y,Y,Y,Y,,0,1,1,0,0,0,0,0,0,1,1,0
+763,Opt-out form,Y,Y,Y,Y,,0,1,1,0,1,0,0,0,0,0,0,0
+766,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+768,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+769,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+771,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+772,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+773,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+791,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+792,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+794,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+796,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+798,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,1,0,0
+799,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+804,Opt-out form,Y,Y,Y,Y,Y,0,0,1,0,0,0,0,0,0,0,1,0
+808,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,1,0,0,0,0,1,0,0,0,1,1,0
+809,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,1,0,1,0,0,0,0,0
+811,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,1,0
+812,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+813,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+814,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,1,0,0,0,0,1,0,0
+816,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+819,Opt-out form,Y,Y,Y,Y,Y,1,1,0,1,0,0,0,0,0,0,1,0
+820,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,1,0,0,1,1,1,0,0,0,0,0,0
+821,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,0,0,0
+823,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+824,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,1,0,0,1,1,1,0,0,1,0,0,0
+825,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+837,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+838,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+839,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+842,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+844,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,0,0,0,0,1,1,0
+847,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+848,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,1,1,0,1,0,0,0
+850,"Browser opt-out
+& Opt-out form",Y,Y,,Y,Y,1,0,0,1,0,0,1,0,0,0,0,0
+855,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+857,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+865,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,0,0,1,0
+866,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+869,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+885,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+890,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+904,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+917,Browser opt-out,,,,,,0,1,0,0,0,0,0,1,0,0,0,0
+919,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+921,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+924,Opt-out form,Y,Y,Y,Y,,0,0,0,0,1,0,0,0,0,0,0,0
+925,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+932,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+939,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+942,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+946,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+949,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+952,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+957,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+958,"Browser opt-out
+& Opt-out form",,Y,,Y,,0,0,0,0,0,0,1,0,0,0,0,0
+960,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+964,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+966,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+967,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+970,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+972,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+974,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+984,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+987,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+988,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+989,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+990,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+991,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+993,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,0
+994,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+997,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1000,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+1005,Browser opt-out,,,,,,0,0,0,1,1,0,1,0,0,0,0,0
+1016,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,0,0,0,1,0,0,0
+1018,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,0,1,0,0,0,0,0,0
+1019,Browser opt-out,,,,,,0,0,0,0,1,0,1,0,0,0,0,0
+1020,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+1021,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1022,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,1,0,0,0,0,0,0,1,0,0,0
+1025,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,0
+1026,Opt-out form,,,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+1027,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,1,1,0,0
+1030,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1031,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+1032,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1043,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+1044,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+1045,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1049,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1052,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,0,0,0
+1054,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1059,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1060,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+1063,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1066,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,,1,0,1,0,0,1,0,0,0,1,1,0
+1071,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1086,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+1087,"Browser opt-out
+& Opt-out form",Y,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1089,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
